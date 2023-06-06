@@ -30,6 +30,8 @@ Publish the website in the given URL.
 
 ## DESIGN:
 
+FIGMA
+
 ## PROGRAM :
 ```
 /* Home page */
